@@ -1,0 +1,13 @@
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\bin\Release\Oberfläche.exe.config
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\bin\Release\Oberfläche.exe
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\bin\Release\Oberfläche.pdb
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\obj\Release\MainWindow.g.cs
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\obj\Release\App.g.cs
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\obj\Release\Oberfläche_MarkupCompile.cache
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\obj\Release\Oberfläche_MarkupCompile.lref
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\obj\Release\MainWindow.baml
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\obj\Release\Oberfläche.g.resources
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\obj\Release\Oberfläche.Properties.Resources.resources
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\obj\Release\Oberfläche.csproj.GenerateResource.Cache
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\obj\Release\Oberfläche.exe
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\obj\Release\Oberfläche.pdb

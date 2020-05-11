@@ -1,0 +1,9 @@
+P:\In Entwicklung\HTML-XML-Parser\HTML-XML-Parser\bin\Debug\HTML-XML-Parser.exe.config
+P:\In Entwicklung\HTML-XML-Parser\HTML-XML-Parser\bin\Debug\HTML-XML-Parser.exe
+P:\In Entwicklung\HTML-XML-Parser\HTML-XML-Parser\bin\Debug\HTML-XML-Parser.pdb
+P:\In Entwicklung\HTML-XML-Parser\HTML-XML-Parser\obj\Debug\HTML-XML-Parser.csprojResolveAssemblyReference.cache
+P:\In Entwicklung\HTML-XML-Parser\HTML-XML-Parser\obj\Debug\HTML-XML-Parser.exe
+P:\In Entwicklung\HTML-XML-Parser\HTML-XML-Parser\obj\Debug\HTML-XML-Parser.pdb
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\HTML-XML-Parser\bin\Debug\HTML-XML-Parser.exe.config
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\HTML-XML-Parser\obj\Debug\HTML-XML-Parser.exe
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\HTML-XML-Parser\obj\Debug\HTML-XML-Parser.pdb

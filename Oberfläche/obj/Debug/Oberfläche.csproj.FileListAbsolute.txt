@@ -1,0 +1,14 @@
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\bin\Debug\Oberfläche.exe.config
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\bin\Debug\Oberfläche.exe
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\bin\Debug\Oberfläche.pdb
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\obj\Debug\Oberfläche.csprojResolveAssemblyReference.cache
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\obj\Debug\MainWindow.g.cs
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\obj\Debug\App.g.cs
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\obj\Debug\Oberfläche_MarkupCompile.cache
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\obj\Debug\Oberfläche_MarkupCompile.lref
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\obj\Debug\MainWindow.baml
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\obj\Debug\Oberfläche.g.resources
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\obj\Debug\Oberfläche.Properties.Resources.resources
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\obj\Debug\Oberfläche.csproj.GenerateResource.Cache
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\obj\Debug\Oberfläche.exe
+L:\Entwicklung\In Entwicklung\HTML-XML-Parser\Oberfläche\obj\Debug\Oberfläche.pdb
